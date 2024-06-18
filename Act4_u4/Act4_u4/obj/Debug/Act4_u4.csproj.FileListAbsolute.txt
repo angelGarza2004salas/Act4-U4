@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.Form1.resources
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.Properties.Resources.resources
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\bin\Debug\Act4_u4.exe.config
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\bin\Debug\Act4_u4.exe
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\bin\Debug\Act4_u4.pdb
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.exe
+C:\Users\pc\source\repos\Act4_u4\Act4_u4\obj\Debug\Act4_u4.pdb
